@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/edit_text_back_main.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/ic_dart.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/ic_html.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/ic_java.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/ic_java_script.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable-v24/text_background.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/button_background.xml" value="0.11388888888888889" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/edit_text_back_main.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_dart.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_java.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_java_script.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_objective_c.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/ic_swift.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/intro_edit_background.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/main_background.xml" value="0.11388888888888889" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/drawable/text_background.xml" value="0.11388888888888889" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/project naira/GithubApps/app/src/main/res/layout/item_user.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

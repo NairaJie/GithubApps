@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    basedlayer-->
+    <item>
+        <shape>
+            <padding
+                android:bottom="@dimen/_1dp"
+                android:right="@dimen/_1dp"/>
+            <solid android:color="#00CCCCCC"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+<!--    secondLayer-->
+    <item>
+        <shape>
+            <padding
+                android:bottom="@dimen/_1dp"
+                android:right="@dimen/_1dp"/>
+            <solid android:color="#10CCCCCC"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+<!--thirdLayer-->
+    <item>
+        <shape>
+            <padding
+                android:right="@dimen/_1dp"
+                android:bottom="@dimen/_1dp"/>
+            <solid android:color="#20CCCCCC"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+<!--    fourthLayer-->
+    <item>
+        <shape>
+            <padding
+                android:right="@dimen/_1dp"
+                android:bottom="@dimen/_1dp"/>
+            <solid android:color="#30CCCCCC"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+<!--    fifthLayer-->
+    <item>
+        <shape>
+            <padding
+                android:right="@dimen/_1dp"
+                android:bottom="@dimen/_1dp"/>
+            <solid android:color="#50CCCCCC"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+<!--    foreground-->
+    <item>
+        <shape>
+            <solid android:color="@color/white"/>
+            <corners android:radius="@dimen/_12dp"/>
+        </shape>
+    </item>
+
+</layer-list>
